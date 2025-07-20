@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache
+*.cache
+.cache/
+*.pkl
+
+# Output files
+*.h5
+*.hdf5
+*.model
+*.weights
+
+# Python virtual environment + pip files
+Pipfile.lock
+poetry.lock
+
+# Secrets (add your own if needed)
+.env
+.env.*
+
+# Jupyter Notebook output cells
+*.out
